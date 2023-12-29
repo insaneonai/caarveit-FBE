@@ -1,0 +1,6 @@
+[submodule "Caarve.it-FE"]
+	path = Caarve.it-FE
+	url = https://github.com/insaneonai/Caarve.it-FE
+[submodule "Caarveit-back-end"]
+	path = Caarveit-back-end
+	url = https://github.com/insaneonai/Caarveit-back-end
