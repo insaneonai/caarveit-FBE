@@ -2,11 +2,11 @@ version: '3'
 
 services:
     backend-api:
-        build: ./Caarveit-back-end
+        build: ./Caarveit-BE
         ports:
             - 8080:8080
     frontend:
-        build: ./Caarve.it-FE
+        build: ./Caarveit-FE
         ports:
             - 3000:3000
         depends_on:
