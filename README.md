@@ -14,8 +14,7 @@ docker-compose up
 
 Check out the Demo at 👇
 
-https://vimeo.com/manage/videos/837530654
-
+https://vimeo.com/837530654
 
 
 
